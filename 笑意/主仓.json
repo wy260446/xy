@@ -1,8 +1,8 @@
 {
 "storeHouse":
 [
-{"sourceName":"笑意仓库","sourceUrl":"./本地仓库.json","parse": "{\"logo\": \"https://gitee.com/wy260710/999/raw/master/picture/Image_1735667860486.jpg\",\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"},
-{"sourceName":"在线仓","sourceUrl":"/在线仓.json","parse": "{\"logo\": \"https://gitee.com/wy260710/999/raw/master/picture/Image_1735667860486.jpg\",\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"}
+{"sourceName":"笑意仓库","sourceUrl":"./本地仓库.json","parse": "{\"logo\": \"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wy260446/xy/refs/heads/master/picture/Image_1735667860486.jpg\",\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"},
+{"sourceName":"在线仓","sourceUrl":"/在线仓.json","parse": "{\"logo\": \"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wy260446/xy/refs/heads/master/picture/Image_1735667860486.jpg\",\"danma\": true,\"danma_colors\": [\"#FF0000\",\"#0000FF\",\"#800080\",\"#FFFFFF\",\"#FF7F00\",\"#FFFF00\",\"#00FF00\"]}"}
 ],"notifyUpdate": true
 }
 
