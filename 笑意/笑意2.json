@@ -48,7 +48,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "玩偶弹幕",
@@ -303,7 +303,7 @@
             "style": {
                 "type": "list"
             },
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "雷鲸",
@@ -313,7 +313,7 @@
             "searchable": 1,
             "changeable": 1,
             "searchTop": true,
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "天翼",
@@ -323,7 +323,7 @@
             "searchable": 1,
             "changeable": 0,
             "searchTop": true,
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "盘他",
@@ -333,7 +333,7 @@
             "searchable": 1,
             "changeable": 1,
             "searchTop": true,
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "夸克影搜弹幕",
@@ -741,7 +741,7 @@
             "api": "csp_Wexemby",
             "searchable": 1,
             "changeable": 1,
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "无忧短剧",
@@ -1807,7 +1807,7 @@
             "api": "csp_WexIktv",
             "searchable": 1,
             "changeable": 0,
-            "jar": "./wex.jar"
+            "jar": "./wex1.jar"
         },
         {
             "key": "push_agent",
